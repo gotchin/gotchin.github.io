@@ -40,7 +40,7 @@
     "@nuxtjs/stylelint-module": "^4.0.0",
     "stylelint": "^13.3.3",
     "@vue/test-utils": "^1.0.3",
-    "babel-jest": "^26.3.0",
+    "babel-jest": "^27.0.1",
     "jest": "^24.1.0",
     "vue-jest": "^4.0.0-0"
   }
